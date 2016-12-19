@@ -1,6 +1,6 @@
-OOPCL12/Debug/
-OOPCL12/x64/Debug/
-OOPCL12.VC.db
-OOPCL12.VC.VC.opendb
+*/Debug/
+*/x64/Debug/
+*.VC.db
+*.VC.VC.opendb
 *.suo
 x64/Debug/
